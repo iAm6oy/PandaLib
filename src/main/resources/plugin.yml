@@ -1,0 +1,4 @@
+main: dev.panda.lib.PandaLib
+name: PandaLib
+version: ${project.version}
+authors: [Risas, TulioTriste]
